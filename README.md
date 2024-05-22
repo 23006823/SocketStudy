@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+## NAME:GAYATHIRI ROSHINI M
+## REG NO:212223110012
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
